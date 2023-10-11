@@ -7,7 +7,7 @@ This GitHub repository contains an analysis of Data Science job salaries using M
 
 - **Average Salary per Employment Type**: We employ Excel's PivotTable feature to calculate and present the average salary per employment type, offering valuable insights into compensation trends.
 
-- **Experience vs. Salary**: We create visual representations, such as scatter plots or line charts, to help understand how years of experience relate to salary within the data science field.
+- **Experience vs. Salary**: We create visual representations, such as histogram plots, line charts, pie charts, to help understand how years of experience relate to salary within the data science field.
 
 - **VLOOKUP Function**: We use the VLOOKUP function to enhance the analysis by categorizing job records into different experience types, allowing for a deeper exploration of salary trends.
 
