@@ -13,4 +13,3 @@ This GitHub repository contains an analysis of Data Science job salaries using M
 
 Feel free to explore the data, analysis, and visualizations in this repository to gain a better understanding of data science job salaries and employment trends.
 
-For detailed instructions and insights, check out the accompanying documentation.
